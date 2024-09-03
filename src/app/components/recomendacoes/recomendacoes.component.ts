@@ -32,41 +32,30 @@ export class RecomendacoesComponent {
 
   listPropostas = [
     {
-      title: 'SAÚDE ITINERANTE',
-      description: 'O projeto proporcionará consultas em casa com equipes de profissionais multidisciplinares, para atender demandas em comunidades que não têm postos de saúde. ',
+      title: 'FOMENTO AO EMPREENDEDORISMO',
+      description: 'Vamos trabalhar para fortalecer e atrair investimentos a industrial local, especialmente o polo industrial químico atrair novos investimentos, diversificar o comércio gerando emprego e renda a todos os Guaiubanos.',
     },
     {
-      title: 'MUTIRÃO DA SAÚDE',
-      description: 'Serão realizados mutirões de atendimento especializado e cirurgias, com base no Programa Nacional de Redução de Cirurgias Eletivas, além de um mutirão de consultas com neurologistas e psiquiatras.',
+      title: 'SAÚDE',
+      description: 'Na saúde construiremos a maternidade municipal, daremos acesso a exames a toda a população e infraestrutura adequada em nosso postos de saúde, também teremos o saúde ao alcance de todos com medicamentos entregues na porta da sua casa.',
     },
     {
-      title: 'HOSPITAL DA MULHER',
-      description: 'Será implantado um hospital especializado com todos os serviços essenciais para a saúde da mulher, com equipamentos para realização de exames preventivos e de diagnóstico de imagens.',
+      title: 'EDUCAÇÃO, INFRAESTRUTURA E TECNOLOGIA',
+      description: 'Implementação de educação tecnológica nas escolas e melhoria da infraestrutura da conectividade para acesso de toda a população.',
     },
     {
-      title: 'CENTRO ESPECIALIZADO',
-      description: 'Atendimento e acompanhamento de pessoas com Transtorno do Espectro Autista (TEA) e outros transtornos de desenvolvimento.',
+      title: 'MERENDA ESCOLAR E AGRICULTURA LOCAL',
+      description: 'Aumentar a quantidade de produtos locais nas escolas e desenvolver um cardápio nutricionalmente equilibrado para os nosso alunos.',
     },
     {
-      title: 'CRECHE NO MEU BAIRRO',
-      description: 'Com atividades de tempo integral, a Creche no Meu Bairro visa educação em tempo integral e cria condições para que mães possam se capacitar, trabalhar ou empreender, ajudando a sustentar suas famílias.',
+      title: 'AÇÕES DOS PRIMEIROS 120 DIAS INICIAIS DE GESTÃO',
+      description: 'Resolver problemas imediatos na infraestrutura e serviço público. Foco na resolução dos problemas sociais e melhoria na coleta de lixo.',
     },
     {
-      title: 'BEM MORAR',
-      description: 'Será criado um programa que disponibilizará recursos para reformar residências de famílias de baixa renda.',
+      title: 'COMITÊ DE GESTÃO TÉCNICA',
+      description: 'Gestão participativo para que a população possa opinar de perto na transformação de Guaiúba.',
     },
-    {
-      title: 'UNIVERSIDADE OPERÁRIA',
-      description: 'O projeto oferece uma bolsa de incentivo para capacitar e remunerar a população, permitindo que completem seus estudos em um horário e se especializem em áreas específicas no restante do tempo para atender às necessidades do município.',
-    },
-    {
-      title: 'POLO INDUSTRIAL DE CAUCAIA',
-      description: 'Será implantado um Centro de Desenvolvimento Econômico, de forma que empregos sejam gerados e a renda da população cresça.',
-    },
-    {
-      title: 'CISMEC',
-      description: 'Será criada a Central de Inteligência, Segurança e Monitoramento Estratégico de Caucaia, que utilizará tecnologia avançada para promover a colaboração entre forças de segurança e defesa social, visando controlar e reduzir a violência.',
-    },
+   
   ]
 
   breakpoints = {
